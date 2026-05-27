@@ -1,8 +1,9 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Zaki!+%F0%9F%91%8B;Full-Stack+Web+Developer;IoT+%26+Robotics+Enthusiast;UI%2FUX+Explorer" alt="Typing SVG" />
+<br/><div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Frostkai!;Full-Stack+Web+Developer;IoT+%26+Robotics+Enthusiast;UI%2FUX+Explorer" alt="Typing SVG" />
+</div>
 <br/>
-
-## Overview
+</div>
+Overview
 
 Saya adalah mahasiswa **Teknologi Informasi di Fakultas Vokasi, Universitas Brawijaya**. Saya memiliki ketertarikan besar dalam menjembatani arsitektur perangkat lunak modern (*Full-stack Web Development*) dengan sistem otomasi dunia nyata (*Internet of Things & Robotics*). 
 
@@ -10,7 +11,7 @@ Aktif berkontribusi dalam lingkungan kampus dan komunitas kreatif, saya selalu t
 
 ---
 
-## Tech Ecosystem
+Tech Ecosystem
 
 <table align="center" width="100%">
   <tr>
@@ -52,15 +53,13 @@ Berikut adalah beberapa project dan studi kasus yang sedang dan telah saya kemba
 
 ---
 
-
-
-## Fun Fact
+ Fun Fact
 
 Ketika sedang tidak berada di depan teks editor atau mengulik komponen *hardware*, saya biasanya menghabiskan waktu melatih akurasi *aim* di Valorant atau mengoptimalkan konfigurasi performa sistem dan monitor *high refresh rate*.
 
 ---
 
-## Telemetry (Connect with Me)
+Telemetry (Connect with Me)
 
 <div align="center">
   <a href="mailto:email-dzaki4489@gmail.com">
