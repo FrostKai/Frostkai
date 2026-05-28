@@ -56,7 +56,6 @@ Ketika sedang tidak berada di depan teks editor atau mengulik komponen *hardware
 
 ---
 
-Telemetry (Connect with Me)
 
 <div align="center">
   <a href="mailto:email-dzaki4489@gmail.com">
