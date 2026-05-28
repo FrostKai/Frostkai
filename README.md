@@ -26,7 +26,6 @@ Tech Ecosystem
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
     </td>
     <td align="center" width="50%">
       <strong>Infrastructure & Tools</strong><br/><br/>
@@ -46,9 +45,7 @@ Berikut adalah beberapa project dan studi kasus yang sedang dan telah saya kemba
 
 * **[Mini AGV for Warehouse](https://github.com/YOUR_USERNAME)**
     * *Sistem Automated Guided Vehicle skala mini untuk manajemen logistik gudang otomatis, dilengkapi dengan sistem monitoring log dan error handling yang andal.*
-* **[Soto Vokasi Promotional Platform](https://github.com/YOUR_USERNAME)**
-    * *Studi kasus UI/UX dan pengembangan platform berbasis web untuk memperluas jangkauan promosi digital bisnis kuliner lokal.*
-* **[Resep Bos Masakan](https://github.com/YOUR_USERNAME)**
+* **[Resep Bos Masakan](https://github.com/FrostKai/recipe_box-makasakan-.git)**
     * *Perancangan konsep brand identity, desain ikon, dan antarmuka aplikasi panduan memasak interaktif.*
 
 ---
