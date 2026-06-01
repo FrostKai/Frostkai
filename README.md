@@ -43,8 +43,7 @@ Tech Ecosystem
 
 Berikut adalah beberapa project dan studi kasus yang sedang dan telah saya kembangkan:
 
-* **[Mini AGV for Warehouse](https://github.com/YOUR_USERNAME)**
-    * *Sistem Automated Guided Vehicle skala mini untuk manajemen logistik gudang otomatis, dilengkapi dengan sistem monitoring log dan error handling yang andal.*
+
 * **[Resep Bos Masakan](https://github.com/FrostKai/recipe_box-makasakan-)**
     * *Perancangan konsep brand identity, desain ikon, dan antarmuka aplikasi panduan memasak interaktif.*
 * **[Web brand headphone](https://github.com/FrostKai/web-brand)**
