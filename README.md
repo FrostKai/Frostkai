@@ -39,16 +39,6 @@ Tech Ecosystem
 
 ---
 
-## Project Chronicles
-
-Berikut adalah beberapa project dan studi kasus yang sedang dan telah saya kembangkan:
-
-
-* **[Resep Bos Masakan](https://github.com/FrostKai/recipe_box-makasakan-)**
-    * *Perancangan konsep brand identity, desain ikon, dan antarmuka aplikasi panduan memasak interaktif.*
-* **[Web brand headphone](https://github.com/FrostKai/web-brand)**
-    * *Perancangan konsep brand identity, desain ikon, dan antarmuka aplikasi panduan memasak interaktif.*
----
 
  Fun Fact
 
